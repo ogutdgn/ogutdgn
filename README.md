@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Dogan
 🌱 I’m currently improving myself in Node.js and React.js<br><br>📝 I regularly write articles on https://medium.com/@ogutdgnn<br><br>💬 Ask me about HTML, CSS, JS, React.js and Node.js<br><br>📫 How to reach me ogutdgn@gmail.com<br>
 
 
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogutdgn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
