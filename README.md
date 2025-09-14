@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://ogutdgn.com)
+[![Portfolio](https://img.shields.io/badge/D-Portfolio-8000FF?style=for-the-badge&logoColor=white)](https://ogutdgn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/doganogut)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16854876)
 [![Medium](https://img.shields.io/badge/-MEDIUM-%232B90D9?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ogutdgnn)
